@@ -1,2 +1,2 @@
-# NeaWebhook
- 
+# Discord minecraft Chat Webhook plugin
+
