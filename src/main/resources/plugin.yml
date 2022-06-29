@@ -1,0 +1,7 @@
+author: Aeon
+description: nya
+api-version: 1.14
+main: com.neapro.DiscordWebhookPlugin.Main
+name: NeaProWebhook
+version: "1.0"
+website: neayork.tk
